@@ -9,14 +9,14 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Чтобы футер всегда был внизу, а контент посередине */
+    min-height: 100vh;
     overflow-x: hidden;
 }
 
 .header {
     height: 35vh;
     width: 100%;
-    background-image: url("telegram-photo-0-5875319964926329405.jpg");
+    background-image: url("https://github.com/sayshaloom/tap-to/blob/main/telegram-photo-0-5875319964926329405.JPG?raw=true");
     background-position: center;
     display: flex;
     align-items: center;
