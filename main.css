@@ -1,0 +1,81 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Open Sans', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Чтобы футер всегда был внизу, а контент посередине */
+    overflow-x: hidden;
+}
+
+.header {
+    height: 35vh;
+    width: 100%;
+    background-image: url("telegram-photo-0-5875319964926329405.jpg");
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+    flex: 1; 
+    width: 100%;
+    padding-bottom: 10vh;
+}
+
+.box {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 45%;
+max-width: 400px; 
+height: 300px;
+}
+
+.box.phrase {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    padding: 20px;
+    font-size: 2.1rem;
+    font-weight: 600;
+    color: #2E9AFF;
+}
+
+.box.button button {
+    width: 80%;
+    height: 30%;
+    background-color: #2E9AFF;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    transition: transform 0.2s;
+}
+
+.box.button button:active {
+    transform: scale(0.95);
+}
+
+
+.footer {
+display: flex;
+align-items: center;
+justify-content: center;
+height: 10vh;
+width: 100vw;
+position: fixed;
+bottom: 0;
+background-color: #2E9AFF;
+}
