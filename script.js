@@ -8,7 +8,7 @@ let phrases = [
   'having shared breakfasts',
   'having shared lunches',
   'having shared dinners',
-  'choosing fancy bath bombs at Lust',
+  'choosing fancy bath bombs at Lush',
   'being awkvard buying the lube',
   'browsing bookstores',
   'doing Yoga clumsily',
