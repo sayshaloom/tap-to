@@ -40,7 +40,7 @@ let phrases = [
   'being pickpocketed (by a very mysterious robber) on the train',
   'us sharing thoughts and impressions',
   'being curious and doing our projects'
- 
+  'miu.'
 ];
 
 function getRandomElement(arr) {
