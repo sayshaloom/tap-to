@@ -15,7 +15,7 @@ let phrases = [
   'me singing you songs',
   'taking a bath together',
   'being hugged from behind when watching nerdy videos',
-  'exporing the world togather',
+  'exporing the world together',
   'getting lost in a new city and finding hidden gems',
   'playing video games together',
   'shared cinema visits',
