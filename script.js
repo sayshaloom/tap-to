@@ -39,7 +39,7 @@ let phrases = [
   'our future very clumsy and stoop (but ours!) ice skating',
   'being pickpocketed (by a very mysterious robber) on the train',
   'us sharing thoughts and impressions',
-  'being curious and doing our projects'
+  'being curious and doing our projects',
   'miu.'
 ];
 
