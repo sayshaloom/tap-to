@@ -21,7 +21,7 @@ let phrases = [
   'shared cinema visits',
   'looking at our moon',
   'couching togehter',
-  'kissing monster's attac',
+  "kissing monster's attac",
   'the thumb stroking thing',
   'shared grocery shopping',
   'our very special Fado experience',
@@ -48,7 +48,7 @@ function getRandomElement(arr) {
   return arr[randIndex];
 }
 
-let button = document.querySelector('.button');
+let button = document.querySelector('.button button');
 let phrase = document.querySelector('.phrase');
 
 
